@@ -1,0 +1,4 @@
+sklearn
+NLTK
+pandas
+PYMUPDF
